@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Laboratorio2_Android</string>
+    <string name="main_title"> Lenguajes para aplicaciones comerciales </string>
+
+    <string name="students_list"> Lista Paises </string>
+    <string name="students_list_add">Agregar estudiante</string>
+    <string name="students_list_remove">Remover estudiante</string>
+
+</resources>
